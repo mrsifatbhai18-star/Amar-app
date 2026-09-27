@@ -1,0 +1,10 @@
+{
+  "name": "amar-app",
+  "version": "1.0.0",
+  "description": "Amar first Android app",
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0"
+  }
+}
