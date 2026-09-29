@@ -1,0 +1,9 @@
+{
+  "appId": "com.huntx.bd",
+  "appName": "HUNTX BD",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
